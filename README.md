@@ -1,3 +1,3 @@
 # calendar
 Functional calendar using vanilla javascript
-[sagarmaharjan.github.io/calendar](sagarmaharjan.github.io/calendar)
+<a href="https://sagarmaharjan.github.io/calendar" target="_blank">sagarmaharjan.github.io/calendar</a>
